@@ -1,3 +1,3 @@
 # SmartGrade Showcase
 
-SmartGrade Showcase Live Link : [https://smartgrade-showcase-jihad.netlify.app/]
+SmartGrade Showcase Live Link : [https://smart-grade-showcase-pi.vercel.app/]
