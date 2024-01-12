@@ -19,7 +19,7 @@ const StudentDetails = ({ student }) => {
       </td>
       <td className="p-5 text-sm md:text-xl text-center">{student.Scores}</td>
       <td className="p-5 text-sm md:text-xl text-center">
-        {student.Percentage}
+        {student.Percentage}%
       </td>
     </tr>
   );
